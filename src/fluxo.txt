@@ -1,0 +1,9 @@
+. Função variádica que recebe a string e cospe ela (lembrar de retornar um int!)
+. Struct com os parametros (cuspida intada, c, i, d, x...)
+. Define com string com todos os possíveis parâmetros
+. Função para printar
+. Função que vai printando a string até verificar o % na string e ai joga o que vier depois na struct
+    . Função strcmp com a str do define
+    . Funções para converter para o tipo especificado
+    . Função para caso específico %%
+    . Funções de exceção %%%, cdiuxX... 
